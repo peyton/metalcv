@@ -1,3 +1,7 @@
+# Finder
+#
+.DS_Store
+
 # Xcode
 #
 build/
